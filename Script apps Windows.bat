@@ -16,8 +16,7 @@ choco install --confirm winrar
 choco install --confirm yumi
 choco install --confirm msiafterburner
 choco install --confirm wps-office-free
-choco install --confirm virtualbox
-choco install --confirm photogimp
+choco install --confirm gimp
 choco install -confirm rufus
 choco install --confirm zoom
 choco install --confirm sd-card-formatter
