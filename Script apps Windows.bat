@@ -65,4 +65,4 @@ choco install --confirm virtualbox
 choco install --confirm win32diskimager
 choco install --confirm brackets
 choco install --confirm brackets.theseus
-choco install office-tool
+choco install --confirm office-tool
