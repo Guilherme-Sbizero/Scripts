@@ -58,6 +58,7 @@ sudo flatpak install flathub com.valvesoftware.Steam -y &&
 sudo flatpak install flathub org.codeblocks.codeblocks &&
 sudo flatpak install flathub io.github.shiftey.Desktop &&
 sudo flatpak install flathub nl.openoffice.bluefish &&
+sudo flatpak install flathub org.gabmus.hydrapaper &&
 
 ## Softwares que precisam de download externo ##
 
