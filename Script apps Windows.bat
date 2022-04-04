@@ -55,6 +55,7 @@ choco install --confirm crystaldiskinfo.portable
 choco install --confirm whatsapp
 choco install --confirm sqlite
 choco install --confirm mysql
+choco install --confirm mysql-connector
 choco install --confirm mysql.workbench
 choco install --confirm postgresql14
 choco install --confirm pgadmin4
