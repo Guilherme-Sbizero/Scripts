@@ -68,3 +68,4 @@ choco install --confirm brackets
 choco install --confirm brackets.theseus
 choco install --confirm office-tool
 choco install --confirm visualstudio2019community
+choco install --confirm codelite
