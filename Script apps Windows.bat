@@ -52,7 +52,6 @@ choco install --confirm etcher
 choco install --confirm php 
 choco install --confirm crystaldiskinfo
 choco install --confirm crystaldiskinfo.portable
-choco install --confirm whatsapp
 choco install --confirm sqlite
 choco install --confirm mysql
 choco install --confirm mysql-connector
@@ -61,10 +60,8 @@ choco install --confirm postgresql14
 choco install --confirm pgadmin4
 choco install -- confirm epicgameslauncher
 choco install --confirm firefox
-choco install --confirm sd-card-formatter
 choco install --confirm virtualbox
 choco install --confirm win32diskimager
 choco install --confirm brackets
 choco install --confirm brackets.theseus
 choco install --confirm office-tool
-choco install --confirm visualstudio2019community
