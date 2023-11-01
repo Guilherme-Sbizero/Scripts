@@ -8,6 +8,7 @@ choco install --confirm googlechrome
 choco install --confirm nodejs-lts
 choco install --confirm local
 choco install --confirm intellijidea-community
+choco install --confirm onlyoffice
 choco install --confirm origin
 choco install --confirm steam-client
 choco install --confirm uplay
