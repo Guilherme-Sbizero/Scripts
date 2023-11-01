@@ -46,7 +46,6 @@ choco install --confirm winscp
 choco install --confirm clion-ide
 choco install --confirm datagrip
 choco install --confirm sublimetext4
-choco install --confirm visualgdb
 choco install --confirm rpi-imager
 choco install --confirm etcher
 choco install --confirm php 
