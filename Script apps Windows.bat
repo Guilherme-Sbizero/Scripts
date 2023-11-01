@@ -29,7 +29,7 @@ choco install --confirm vscodium
 choco install --confirm chromium
 choco install --confirm eclipse-java-oxygen
 choco install --confirm apache-netbeans.portable
-choco install --confirm apache-jetbrainstoolbox
+choco install --confirm jetbrainstoolbox
 choco install --confirm phpstorm
 choco install --confirm bluefish
 choco install --confirm bluej-bundled
